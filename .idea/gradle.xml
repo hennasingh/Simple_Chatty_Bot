@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems (1)/Your name" />
+            <option value="$PROJECT_DIR$/Problems (10)/Swap" />
+            <option value="$PROJECT_DIR$/Problems (11)/Fix the program" />
+            <option value="$PROJECT_DIR$/Problems (12)/The sum of digits" />
+            <option value="$PROJECT_DIR$/Problems (13)/Desks" />
+            <option value="$PROJECT_DIR$/Problems (14)/Check the value" />
+            <option value="$PROJECT_DIR$/Problems (15)/Compare Latin letters" />
+            <option value="$PROJECT_DIR$/Problems (16)/Sequence" />
+            <option value="$PROJECT_DIR$/Problems (17)/A capital letter or a digit" />
+            <option value="$PROJECT_DIR$/Problems (18)/Job" />
+            <option value="$PROJECT_DIR$/Problems (19)/Between two numbers" />
+            <option value="$PROJECT_DIR$/Problems (2)/I like Kotlin" />
+            <option value="$PROJECT_DIR$/Problems (20)/Within both ranges" />
+            <option value="$PROJECT_DIR$/Problems (21)/Positive, Negative or Zero" />
+            <option value="$PROJECT_DIR$/Problems (22)/Positive, Negative or Zero" />
+            <option value="$PROJECT_DIR$/Problems (23)/Triangle" />
+            <option value="$PROJECT_DIR$/Problems (24)/Read and print" />
+            <option value="$PROJECT_DIR$/Problems (25)/Kotlin x5" />
+            <option value="$PROJECT_DIR$/Problems (26)/Maximum element divisible by 4" />
+            <option value="$PROJECT_DIR$/Problems (27)/Size of parts" />
+            <option value="$PROJECT_DIR$/Problems (28)/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Problems (29)/The sum of N numbers" />
+            <option value="$PROJECT_DIR$/Problems (3)/The Hello World program" />
+            <option value="$PROJECT_DIR$/Problems (30)/Check the order" />
+            <option value="$PROJECT_DIR$/Problems (31)/Uncomment a line" />
+            <option value="$PROJECT_DIR$/Problems (32)/Right equation" />
+            <option value="$PROJECT_DIR$/Problems (33)/The sum of three numbers" />
+            <option value="$PROJECT_DIR$/Problems (34)/Vowel or not" />
+            <option value="$PROJECT_DIR$/Problems (4)/The eternal truth" />
+            <option value="$PROJECT_DIR$/Problems (5)/From 0 to 9" />
+            <option value="$PROJECT_DIR$/Problems (6)/Amount on account" />
+            <option value="$PROJECT_DIR$/Problems (7)/We need to learn Kotlin" />
+            <option value="$PROJECT_DIR$/Problems (8)/First, second, third" />
+            <option value="$PROJECT_DIR$/Problems (9)/The result of a game in Tic-Tac-Toe" />
+            <option value="$PROJECT_DIR$/Problems/Your name" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

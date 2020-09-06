@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Your_name_main" target="11" />
+      <module name="Problems-Your_name_test" target="11" />
+      <module name="Problems__10_-Swap_main" target="11" />
+      <module name="Problems__10_-Swap_test" target="11" />
+      <module name="Problems__11_-Fix_the_program_main" target="11" />
+      <module name="Problems__11_-Fix_the_program_test" target="11" />
+      <module name="Problems__12_-The_sum_of_digits_main" target="11" />
+      <module name="Problems__12_-The_sum_of_digits_test" target="11" />
+      <module name="Problems__13_-Desks_main" target="11" />
+      <module name="Problems__13_-Desks_test" target="11" />
+      <module name="Problems__14_-Check_the_value_main" target="11" />
+      <module name="Problems__14_-Check_the_value_test" target="11" />
+      <module name="Problems__15_-Compare_Latin_letters_main" target="11" />
+      <module name="Problems__15_-Compare_Latin_letters_test" target="11" />
+      <module name="Problems__16_-Sequence_main" target="11" />
+      <module name="Problems__16_-Sequence_test" target="11" />
+      <module name="Problems__17_-A_capital_letter_or_a_digit_main" target="11" />
+      <module name="Problems__17_-A_capital_letter_or_a_digit_test" target="11" />
+      <module name="Problems__18_-Job_main" target="11" />
+      <module name="Problems__18_-Job_test" target="11" />
+      <module name="Problems__19_-Between_two_numbers_main" target="11" />
+      <module name="Problems__19_-Between_two_numbers_test" target="11" />
+      <module name="Problems__1_-Your_name_main" target="11" />
+      <module name="Problems__1_-Your_name_test" target="11" />
+      <module name="Problems__20_-Within_both_ranges_main" target="11" />
+      <module name="Problems__20_-Within_both_ranges_test" target="11" />
+      <module name="Problems__21_-Positive,_Negative_or_Zero_main" target="11" />
+      <module name="Problems__21_-Positive,_Negative_or_Zero_test" target="11" />
+      <module name="Problems__22_-Positive,_Negative_or_Zero_main" target="11" />
+      <module name="Problems__22_-Positive,_Negative_or_Zero_test" target="11" />
+      <module name="Problems__23_-Triangle_main" target="11" />
+      <module name="Problems__23_-Triangle_test" target="11" />
+      <module name="Problems__24_-Read_and_print_main" target="11" />
+      <module name="Problems__24_-Read_and_print_test" target="11" />
+      <module name="Problems__25_-Kotlin_x5_main" target="11" />
+      <module name="Problems__25_-Kotlin_x5_test" target="11" />
+      <module name="Problems__26_-Maximum_element_divisible_by_4_main" target="11" />
+      <module name="Problems__26_-Maximum_element_divisible_by_4_test" target="11" />
+      <module name="Problems__27_-Size_of_parts_main" target="11" />
+      <module name="Problems__27_-Size_of_parts_test" target="11" />
+      <module name="Problems__28_-Fizz_Buzz_main" target="11" />
+      <module name="Problems__28_-Fizz_Buzz_test" target="11" />
+      <module name="Problems__29_-The_sum_of_N_numbers_main" target="11" />
+      <module name="Problems__29_-The_sum_of_N_numbers_test" target="11" />
+      <module name="Problems__2_-I_like_Kotlin_main" target="11" />
+      <module name="Problems__2_-I_like_Kotlin_test" target="11" />
+      <module name="Problems__30_-Check_the_order_main" target="11" />
+      <module name="Problems__30_-Check_the_order_test" target="11" />
+      <module name="Problems__31_-Uncomment_a_line_main" target="11" />
+      <module name="Problems__31_-Uncomment_a_line_test" target="11" />
+      <module name="Problems__32_-Right_equation_main" target="11" />
+      <module name="Problems__32_-Right_equation_test" target="11" />
+      <module name="Problems__33_-The_sum_of_three_numbers_main" target="11" />
+      <module name="Problems__33_-The_sum_of_three_numbers_test" target="11" />
+      <module name="Problems__34_-Vowel_or_not_main" target="11" />
+      <module name="Problems__34_-Vowel_or_not_test" target="11" />
+      <module name="Problems__3_-The_Hello_World_program_main" target="11" />
+      <module name="Problems__3_-The_Hello_World_program_test" target="11" />
+      <module name="Problems__4_-The_eternal_truth_main" target="11" />
+      <module name="Problems__4_-The_eternal_truth_test" target="11" />
+      <module name="Problems__5_-From_0_to_9_main" target="11" />
+      <module name="Problems__5_-From_0_to_9_test" target="11" />
+      <module name="Problems__6_-Amount_on_account_main" target="11" />
+      <module name="Problems__6_-Amount_on_account_test" target="11" />
+      <module name="Problems__7_-We_need_to_learn_Kotlin_main" target="11" />
+      <module name="Problems__7_-We_need_to_learn_Kotlin_test" target="11" />
+      <module name="Problems__8_-First,_second,_third_main" target="11" />
+      <module name="Problems__8_-First,_second,_third_test" target="11" />
+      <module name="Problems__9_-The_result_of_a_game_in_Tic-Tac-Toe_main" target="11" />
+      <module name="Problems__9_-The_result_of_a_game_in_Tic-Tac-Toe_test" target="11" />
+      <module name="Simple_Chatty_Bot-task_main" target="11" />
+      <module name="Simple_Chatty_Bot-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
